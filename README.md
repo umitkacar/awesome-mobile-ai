@@ -31,6 +31,7 @@
 ## ⚡ Quick Start
 
 ```bash
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 # Install core package (10 seconds)
 pip install -e .
 
